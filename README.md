@@ -3,7 +3,6 @@
 
 ___ORIGINAL CODE___
 
-package com.gildedrose;
 
 class GildedRose {
     Item[] items;

@@ -3,7 +3,7 @@
 
 ___ORIGINAL CODE___
 
-
+``` 
 class GildedRose {
     Item[] items;
 
@@ -64,5 +64,5 @@ class GildedRose {
         }
     }
 }
-
-__END ORIGINAL CODE_
+``` 
+__END ORIGINAL CODE__

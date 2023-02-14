@@ -1,5 +1,6 @@
 # alonso-gilded-rose
-
+___REQUIREMENTS___
+https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/GildedRoseRequirements.txt
 
 ___ORIGINAL CODE___
 
